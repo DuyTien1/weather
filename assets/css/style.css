@@ -21,7 +21,7 @@ body {
 	height: 100vh;
 	font-family: "Poppins", sans-serif;
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.9), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/cold-day.jpg) no-repeat center center/cover;
+		url(../images/cold-day.jpg) no-repeat center center/cover;
 }
 
 .heading {
@@ -47,7 +47,7 @@ body {
 	height: 555px;
 	padding: 20px;
 	background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.2)),
-		url(./assets/images/cold-day.jpg) no-repeat center center/cover;
+		url(../images/cold-day.jpg) no-repeat center center/cover;
 }
 
 .weather__search {
@@ -191,42 +191,42 @@ body {
 
 .hot-day {
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.9), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/hot-day.jpg) no-repeat center center/cover;
+		url(../images/hot-day.jpg) no-repeat center center/cover;
 }
 
 .hot-day .container {
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/hot-day.jpg) no-repeat center center/cover;
+		url(../images/hot-day.jpg) no-repeat center center/cover;
 }
 
 .cold-day {
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.9), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/cold-day.jpg) no-repeat center center/cover;
+		url(../images/cold-day.jpg) no-repeat center center/cover;
 }
 
 .cold-day .container {
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/cold-day.jpg) no-repeat center center/cover;
+		url(../images/cold-day.jpg) no-repeat center center/cover;
 }
 
 .hot-night {
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.9), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/hot-night.png) no-repeat center center/cover;
+		url(../images/hot-night.png) no-repeat center center/cover;
 }
 
 .hot-night .container {
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/hot-night.png) no-repeat center center/cover;
+		url(../images/hot-night.png) no-repeat center center/cover;
 }
 
 .cold-night {
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.9), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/cold-night.jpg) no-repeat center center/cover;
+		url(../images/cold-night.jpg) no-repeat center center/cover;
 }
 
 .cold-night .container {
 	background: linear-gradient(to top, rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.2)),
-		url(./assets/images/cold-night.jpg) no-repeat center center/cover;
+		url(../images/cold-night.jpg) no-repeat center center/cover;
 }
 
 /* hover effect */
